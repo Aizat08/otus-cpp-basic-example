@@ -1,0 +1,3 @@
+/Users/aizat/otus-cpp-basic-example/build/CMakeFiles/rebuild_cache.dir
+/Users/aizat/otus-cpp-basic-example/build/CMakeFiles/edit_cache.dir
+/Users/aizat/otus-cpp-basic-example/build/CMakeFiles/hello.dir

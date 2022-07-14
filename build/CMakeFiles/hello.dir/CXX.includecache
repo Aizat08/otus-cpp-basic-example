@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aizat/otus-cpp-basic-example/main.cpp
+iostream
+-
+move_me_out.h
+/Users/aizat/otus-cpp-basic-example/move_me_out.h
+
+/Users/aizat/otus-cpp-basic-example/move_me_out.cpp
+iostream
+-
+move_me_out.h
+/Users/aizat/otus-cpp-basic-example/move_me_out.h
+
+/Users/aizat/otus-cpp-basic-example/move_me_out.h
+
