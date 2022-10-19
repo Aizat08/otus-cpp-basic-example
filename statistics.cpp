@@ -26,7 +26,7 @@ public:
 	}
 
 	const char * name() const override {
-		return "\nmin:";
+		return "\nmin";
 	}
 
 private:
@@ -48,7 +48,7 @@ public:
 	}
 
 	const char * name() const override {
-		return "max:";
+		return "max";
 	}
 
 private:
@@ -70,7 +70,7 @@ public:
 	}
 
 	const char * name() const override {
-		return "mean:";
+		return "mean";
 	}
 
 private:
@@ -95,7 +95,7 @@ public:
 	}
 
 	const char * name() const override {
-		return "std:";
+		return "std";
 	}
 
 private:
